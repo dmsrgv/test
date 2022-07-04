@@ -3,10 +3,10 @@
     <channel>
         <title>Х5 Недвижимость</title>
         <item>
-            <title>Версия 2.4.0</title>
+            <title>Версия 2.5.0</title>
             <description>Исправлены ошибки</description>
-            <pubDate>Пятница, 27 июня 2022 10:00:00 +0000</pubDate>
-            <enclosure url="https://awds.x5.ru/Catalog" sparkle:version="2.4.0" sparkle:os="android" />
+            <pubDate>Вторник, 5 июля 2022 10:00:00 +0000</pubDate>
+            <enclosure url="https://awds.x5.ru/Catalog" sparkle:version="2.5.0" sparkle:os="android" />
         </item>
     </channel>
     <channel>
