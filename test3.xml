@@ -3,19 +3,19 @@
     <channel>
         <title>Х5 Недвижимость</title>
         <item>
-            <title>Версия 2.5.0</title>
-            <description>Исправлены ошибки</description>
-            <pubDate>Вторник, 5 июля 2022 10:00:00 +0000</pubDate>
-            <enclosure url="https://awds.x5.ru/Catalog" sparkle:version="2.5.0" sparkle:os="android" />
+            <title>Версия 3.0.0</title>
+            <description>Повысили стабильность и исправили баги</description>
+            <pubDate>Четверг, 1 сентября 2022 8:00:00 +0000</pubDate>
+            <enclosure url="https://awds.x5.ru/Catalog" sparkle:version="3.0.0" sparkle:os="android" />
         </item>
     </channel>
     <channel>
        <title>Х5 Недвижимость</title>
        <item>
-           <title>Версия 1.1.8</title>
-           <description>Исправлены баги</description>
-           <pubDate>Воскресенье, 3 июля 2022 12:00:00 +0000</pubDate>
-           <enclosure url="https://apps.apple.com/ru/app/x5-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C/id1602222057" sparkle:version="1.1.8" sparkle:os="ios" />
+           <title>Версия 3.0.0</title>
+           <description>Повысили стабильность и исправили баги</description>
+           <pubDate>Четверг, 1 сентября 2022 8:00:00 +0000</pubDate>
+           <enclosure url="https://apps.apple.com/ru/app/x5-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C/id1602222057" sparkle:version="3.0.0" sparkle:os="ios" />
        </item>
     </channel>
 </rss>
